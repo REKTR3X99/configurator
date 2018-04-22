@@ -57,5 +57,5 @@ make install
 
 
 #executing configuration 
-sudo sh ./bspwm_config.sh
+sudo sh bspwm_config.sh
 
